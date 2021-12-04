@@ -49,7 +49,7 @@ h1 {
 
 .label-float {
     /*   position: relative; */
-    paddind-top: 13px;
+    padding-top: 13px;
     margin-top: 5%;
     margin-bottom: 5%
 }
@@ -60,7 +60,7 @@ h1 {
 
 .label-float label {
     color: #531309;
-    pointer-event: none;
+    pointer-events: none;
     /*   position: absolute; */
     top: 0;
     left: 0;
