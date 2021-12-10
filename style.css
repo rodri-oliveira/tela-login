@@ -121,3 +121,21 @@ a {
 a:hover {
     color: #531309;
 }
+
+.fa-eye {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    cursor: pointer;
+    color: #531309;
+}
+
+#msgError {
+    text-align: center;
+    padding: 10px;
+    background-color: #e84930;
+    color: #f6b6ac;
+    border-radius: 4px;
+    display: none;
+}
+
